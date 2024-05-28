@@ -33,3 +33,7 @@ Learn how to easily manage a book collection within our API.
 
 * Users (resource)
 * Books (resource)
+
+## Contact us
+
+Reach out to us at [support@wordhoard.com](mailto:support@wordhoard.com) to schedule a demo!
