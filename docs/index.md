@@ -3,7 +3,7 @@
 
 Welcome to Wordhoard’s API documentation! This is your gateway to all the information you need to effectively use our API.
 
-To get started, visit our [Overview](/docs/overview.md) page or dive right into our Quickstart guide below.
+To get started, visit our [Overview](overview.md) page or dive right into our Quickstart guide below.
 
 ## Getting started
 
@@ -31,8 +31,8 @@ Learn how to easily manage a book collection within our API.
 
 > The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends on the installation of the service. When running a local test, the `{base_url}` is generally `http://localhost:3000`.
 
-* [Users (resource)](/docs/api-references/user-resource.md)
-* [Books (resource)](/docs/api-references/book-resource.md)
+* [Users (resource)](api-references/user-resource.md)
+* [Books (resource)](api-references/book-resource.md)
 
 ## Contact us
 
