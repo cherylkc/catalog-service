@@ -11,7 +11,7 @@ You do not need an API key to use our service. The API uses JSON to encode objec
 
 Check out our Quickstart guide (*coming soon*) to see how you can help your customers create their very own digital bookshelf!
 
-For a complete rundown of all the functions you can perform within our service, visit [this page](/docs/index.md).
+For a complete rundown of all the functions you can perform within our service, visit [this page](index.md).
 
 ## Contact us
 
