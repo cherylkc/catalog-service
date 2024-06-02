@@ -23,7 +23,7 @@ Learn how to easily manage a book collection within our API.
 ### Books
 
 * Listing all the books in an account
-* Fetching a book by property
+* Fetching a book by property (title, author, genre, keyword)
 * Adding a book
 * Updating a book (title, author, genre, keyword)
 * Deleting a book
