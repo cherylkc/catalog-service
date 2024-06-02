@@ -13,19 +13,20 @@ Use our Quickstart guide (*coming soon*) to get the service up and running in no
 
 Learn how to easily manage a book collection within our API.
 
-* Add a user (admin only)
-* Delete a user (admin only)
-* Get book by user ID
-* Get book by title
-* Get book by author
-* Get book by genre
-* Get book by keyword
-* Add a book
-* Update a book's title
-* Update a book's author
-* Update a book's genre
-* Update a book's keyword
-* Delete a book
+### Users
+
+* Adding a user (admin only)
+* Deleting a user (admin only)
+* Listing all users (admin only)
+* Updating a user property (email, first name, last name)
+
+### Books
+
+* Listing all the books in an account
+* Fetching a book by property
+* Adding a book
+* Updating a book property (title, author, genre, keyword)
+* Deleting a book
 
 ## API references
 
