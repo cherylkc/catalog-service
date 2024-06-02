@@ -23,17 +23,17 @@ Learn how to easily manage a book collection within our API.
 ### Books
 
 * Listing all the books in an account
-* Fetching a book by property
+* Fetching a book by property (title, author, genre, keyword)
 * Adding a book
-* Updating a book property (title, author, genre, keyword)
+* Updating a book (title, author, genre, keyword)
 * Deleting a book
 
 ## API references
 
 > The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends on the installation of the service. When running a local test, the `{base_url}` is generally `http://localhost:3000`.
 
-* [Users (resource)](api-references/user-resource.md)
-* [Books (resource)](api-references/book-resource.md)
+* [Users](api-references/user-resource.md)
+* [Books](api-references/book-resource.md)
 
 ## Contact us
 
