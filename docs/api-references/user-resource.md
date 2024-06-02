@@ -11,7 +11,7 @@ Base endpoint:
 
 Contains information about the users of the Wordhoard service.
 
-To have a book in the service, the user must first be added to the service by admin. See Add a new user (*coming soon*).
+To have a book in the service, the user must first be added to the service by admin.
 
 ## Resource properties
 
@@ -39,17 +39,17 @@ The `user` resource supports the following operations:
 
 ### READ (GET)
 
-* Get all users (*coming soon*)
+* Get all users
 
 ### CREATE (POST)
 
-* Create user (*coming soon*)
+* Create user
 
 ### UPDATE (PUT/PATCH)
 
-* Update user email (*coming soon*)
-* Update user name (*coming soon*)
+* Update user email
+* Update user name
 
 ### DELETE
 
-* Delete user (*coming soon*)
+* Delete user

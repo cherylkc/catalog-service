@@ -45,23 +45,16 @@ The `book` resource supports the following operations:
 
 ## READ (GET)
 
-* Get book by user ID
-* Get book by title
-* Get book by author
-* Get book by genre
-* Get book by keyword
+* Getting a book by property (title, author, genre, keyword)
 
 ## CREATE (POST)
 
-* Add a book
+* Adding a book
 
 ## UPDATE (PUT/PATCH)
 
-* Update a book's title
-* Update a book's author
-* Update a book's genre
-* Update a book's keyword
+* Updating a book (title, author, genre, keyword)
 
 ## DELETE (DELETE)
 
-* Delete a book
+* Deleting a book

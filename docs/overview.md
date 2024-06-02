@@ -15,7 +15,7 @@ You do not need an API key to use Wordhoard. The API uses JSON to encode objects
 
 New to Wordhoard? Check out this Quickstart guide to see how you can help your customers create their very own digital bookshelf!
 
-For a complete rundown of all the functions you can perform within Wordhoard, visit [this page](docs/index.md).
+For a complete rundown of all the functions you can perform within Wordhoard, visit [this page](index.md).
 
 ## Contact us
 
