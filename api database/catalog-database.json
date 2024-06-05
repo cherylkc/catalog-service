@@ -9,6 +9,7 @@
   ],
   "books": [
     {
+      "book_id": 1,
       "user_id": 1,
       "title": "The IBM Style Guide",
       "author": "Francis DeRespinis",
@@ -16,6 +17,7 @@
       "keyword": "technical writing"
     },
     {
+      "book_id": 2,
       "user_id": 1,
       "title": "Going Postal",
       "author": "Terry Pratchett",
@@ -23,6 +25,7 @@
       "keyword": "Discworld"
     },
     {
+      "book_id": 3,
       "user_id": 1,
       "title": "What if? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions",
       "author": "Randall Munroe",
@@ -30,6 +33,7 @@
       "keyword": "popular science"
     },
     {
+      "book_id": 4,
       "user_id": 1,
       "title": "At the Feet of the Sun",
       "author": "Victoria Goddard",
