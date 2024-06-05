@@ -7,7 +7,7 @@ You do not need an API key to use Wordhoard. The API uses JSON to encode objects
 
 ## Key features
 
-* Look up books by title, author, genre, or keyword
+* [Look up books](books/references/fetch-a-book-by-property.md) by title, author, genre, or keyword
 * [Add](books/tutorials/adding-a-book.md), update, or delete books in your personal book collection
 * Add, update, or delete users in your account (admin only)
 
