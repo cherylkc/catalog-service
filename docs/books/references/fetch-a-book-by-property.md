@@ -38,10 +38,9 @@ The `property` parameter can be any of the following:
 
 This request does not need any authorization.
 
-| Header name | Description | Required | Values |
+| Header name | Description | Required/Optional | Values |
 | -------------- | ------ | ------------ |------------ |
-| Content-Type | The format of the data to be posted. | Optional | application/json. Default value.  |
-| Accept | The format of the data to be returned. | Optional | application/json. Default value. |
+| Content-Type | The format of the data to be posted. | Optional | application/json  |
 
 ## Request body
 
