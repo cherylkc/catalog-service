@@ -15,16 +15,14 @@
       "genre": "Style Guide",
       "keyword": "technical writing",
       "id": 1
-      
     },
     {
       "user_id": 1,
       "title": "Going Postal",
       "author": "Terry Pratchett",
       "genre": "Fantasy",
-      "keyword": "Discworld, paperback",
-      "id": 2
-      
+      "keyword": "Discworld",
+      "id": 2 
     },
     {
       "user_id": 1,
@@ -33,7 +31,6 @@
       "genre": "Nonfiction",
       "keyword": "popular science",
       "id": 3
-    
     },
     {
       "user_id": 1,

@@ -1,17 +1,21 @@
 
 # Wordhoard
 
-Ever wished you could pull up a list of all the books you own, while browsing at a bookstore or looking at a deal on an interesting book online? The Wordhoard REST API lets your customers do that and more, effortlessly. Within the API, users can search for books by title, author, genre, or keyword, and avoid accidentally buying multiple copies of the same book.
+Ever wished you could pull up a list of all the books you own, while browsing at a bookstore or looking at a deal on an interesting book online? The Wordhoard REST API lets your customers do that and more, effortlessly. Users can always have their library at their fingertips, and search for books by title, author, genre, or keyword.
 
-You do not need an API key to use our service. The API uses JSON to encode objects and relies on standard HTTP requests to manage `users` and `books`. It can even be integrated with online bookstores and public libraries to help drive purchasing decisions.
+You do not need an API key to use Wordhoard. The API uses JSON to encode objects and relies on standard HTTP requests to manage `users` and `books`.
 
-## Get started
+## Key features
 
-> Set up your development environment using our Before you start tutorial (*coming soon*) to get the best results from the service.
+* [Look up books](books/references/fetch-a-book-by-property.md) by title, author, genre, or keyword
+* [Add](books/tutorials/adding-a-book.md), update, or delete books in your personal book collection
+* Add, update, or delete users in your account (admin only)
 
-Check out our Quickstart guide (*coming soon*) to see how you can help your customers create their very own digital bookshelf!
+## Getting started
 
-For a complete rundown of all the functions you can perform within our service, visit [this page](docs/index.md).
+New to Wordhoard? Check out this Quickstart guide to see how you can help your customers create their very own digital bookshelf!
+
+For a complete rundown of all the functions you can perform within Wordhoard, visit [this page](index.md).
 
 ## Contact us
 
