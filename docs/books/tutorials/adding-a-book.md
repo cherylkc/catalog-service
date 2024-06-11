@@ -12,14 +12,21 @@ This tutorial assumes you’re familiar with web programming concepts and web da
 
 ## Before you start
 
-* Check to see if you have Postman installed on your system. If not, download the [Postman desktop app](https://www.postman.com/downloads/).
-* Make sure you have the necessary information about the book you’d like to add i.e. title, author, keyword, and/or genre.
-* Start the following server on your development system:
+* Check to see if you have the following on your system:
+  * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
+  * [Node.js](https://nodejs.org/en/download/package-manager)
+  * [json-server](https://www.npmjs.com/package/json-server)
+  * [Postman’s Desktop app](https://www.postman.com/downloads/)
+  * Command Prompt (Windows) or Terminal (macOS)
 
-    ```shell
-     cd <your-github-workspace>/catalog-service/api database
-    json-server -w catalog-database.json
-    ```
+* Make sure you have the necessary information about the book you’d like to add i.e. title, author, keyword, and/or genre.
+* Open [GitHub Desktop](https://desktop.github.com/) and make sure the current repository is **catalog-service**.
+  * Create a new test branch.
+  * Go to **Repository > Open in Command Prompt**.
+  * In the Command Prompt window that pops up, run `cd api database`
+  * Now run the command `json-server -w catalog-database.json`
+
+The service should now be ready for your HTTP requests.
 
 ## Add a book to your collection
 
@@ -47,7 +54,7 @@ Adding a `book` to a collection involves sending a `POST` request with the detai
     }
 ```
 
-1. Click **Send** to make the request.
+4. Click **Send** to make the request.
 
 You'll receive a response body that looks like this:
 
