@@ -54,7 +54,7 @@ Adding a `book` to a collection involves sending a `POST` request with the detai
     }
 ```
 
-4. Click **Send** to make the request.
+Click **Send** to make the request.
 
 You'll receive a response body that looks like this:
 
