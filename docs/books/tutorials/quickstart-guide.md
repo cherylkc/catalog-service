@@ -1,7 +1,7 @@
 
-# Getting started with Wordhoard
+# Quickstart with Wordhoard
 
-Welcome to [Wordhoard](overview.md)! This tutorial will walk you through the basics of getting started with Wordhoard, including set-up, key features, and making your first API call.
+Welcome to [Wordhoard](overview.md)! This guide will quickly walk you through the basics of getting started with Wordhoard, including set-up, key features, and making your first API call.
 
 ## What is Wordhoard
 
@@ -15,6 +15,8 @@ With Wordhoard, you can:
 
 ## Setting up
 
+> You do not need an API key to try Wordhoard out.
+
 These are the prerequisites for exploring Wordhoard:
 
 * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
@@ -22,8 +24,6 @@ These are the prerequisites for exploring Wordhoard:
 * [json-server](https://www.npmjs.com/package/json-server)
 * [Postman’s Desktop app](https://www.postman.com/downloads/)
 * Command Prompt (Windows) or Terminal (macOS)
-
-> You do not need an API key to try Wordhoard out.
 
 When you have all the prerequisites sorted, start the server on your development system:
 
@@ -35,19 +35,6 @@ When you have all the prerequisites sorted, start the server on your development
 
 The service should now be up and running.
 
-## Endpoints supported by Wordhoard
-
-| HTTP Method | Endpoint                           |
-|-------------|------------------------------------|
-| GET         | List all the books in your collection  |
-| GET         | List all the users in your service |
-| GET         | Retrieve a book by any property        |
-| CREATE      | Add a new book to a collection     |
-| CREATE      | Create a new user                  |
-| PATCH       | Modify a user’s details            |
-| PATCH       | Modify a book’s details            |
-| DELETE      | Delete a book from a collection    |
-
 ## Making your first API call - view all books in a user’s collection
 
 Let’s assume you’re a Wordhoard user who wants to take a quick look at all the books in their collection.
@@ -56,7 +43,7 @@ Let’s assume you’re a Wordhoard user who wants to take a quick look at all t
 * Make sure the **GET** method is selected in the dropdown, then paste `http://localhost:3000/books` in the URL box.
 * Click **Send** to send the request to the API server.
 
-You'll see the following response in the response pane.
+You'll see the following response in the response pane:
 
 ```shell
 [
@@ -101,6 +88,19 @@ You'll see the following response in the response pane.
 
 Congratulations! You have just made your first API call to Wordhoard!
 
+### Endpoints supported by Wordhoard
+
+| HTTP Method | Endpoint                           |
+|-------------|------------------------------------|
+| GET         | List all the books in your collection  |
+| GET         | List all the users in your service |
+| GET         | Retrieve a book by any property        |
+| CREATE      | Add a new book to a collection     |
+| CREATE      | Create a new user                  |
+| PATCH       | Modify a user’s details            |
+| PATCH       | Modify a book’s details            |
+| DELETE      | Delete a book from a collection    |
+
 ## What’s next
 
-With your Wordhoard API set up and ready to go, you could now try [adding a new book](books/tutorials/adding-a-book.md) to the collection, or [retrieving a book](books/references/fetch-a-book-by-property.md) using any of its properties. For more detailed information about Wordhoard and its other nifty features, check out our [documentation](index.md).
+With your Wordhoard API set up and ready to go, you could now try [adding a new book](tutorials/adding-a-book.md) to the collection, or [retrieving a book](books/references/fetch-a-book-by-property.md) using any of its properties. For more detailed information about Wordhoard and its other nifty features, check out our [documentation](index.md).
