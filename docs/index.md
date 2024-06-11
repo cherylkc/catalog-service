@@ -1,9 +1,9 @@
 
 # Wordhoard API Documentation
 
-Welcome to Wordhoard’s API documentation! This is your gateway to all the information you need to effectively use our API.
+Welcome to Wordhoard’s API documentation! This is your gateway to all the information you need to effectively use the API.
 
-To get started, visit our [Overview](overview.md) page or dive right into our Quickstart guide below.
+To get started, visit our [Overview](overview.md) page or dive right into our [Getting Started](books/tutorials/getting-started.md) guide below.
 
 ## Getting started
 
@@ -11,7 +11,13 @@ Use our [Getting Started](books/tutorials/getting-started.md) guide to get the A
 
 ## Tutorials
 
-Learn how to easily manage a book collection within our API.
+Learn how to easily manage a book collection within the API.
+
+### Books
+
+* Listing all the books in an account
+* [Adding a book](books/tutorials/adding-a-book.md)
+* Fetching a book by property (title, author, genre, keyword, month and year the book was added)
 
 ### Books
 
@@ -30,9 +36,9 @@ Learn how to easily manage a book collection within our API.
 
 ### References for books
 
-* [Listing all books in a collection](books/references/list-all-books.md)
+* [Listing all the books in a collection](books/references/list-all-books.md)
 * [Updating a book's details](books/references/update-a-book.md)
-* [Fetching a book by property](books/references/fetch-a-book-by-property.md) (title, author, genre, keyword, month added)
+* [Fetching a book by property](books/references/fetch-a-book-by-property.md) (title, author, genre, keyword, month and year the book was added)
 * [Deleting a book](books/references/delete-a-book.md)
 * [Books](books/references/book-resource.md)
 
@@ -45,4 +51,4 @@ Learn how to easily manage a book collection within our API.
 
 ## Contact us
 
-Reach out to us at [support@wordhoard.com](mailto:support@wordhoard.com) to schedule a demo!
+Reach out to [support@wordhoard.com](mailto:support@wordhoard.com) to schedule a demo!
