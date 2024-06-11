@@ -14,6 +14,7 @@
       "author": "Francis DeRespinis",
       "genre": "Style Guide",
       "keyword": "technical writing",
+      "month_added": "April 2023",
       "id": 1
     },
     {
@@ -22,7 +23,8 @@
       "author": "Terry Pratchett",
       "genre": "Fantasy",
       "keyword": "Discworld",
-      "id": 2 
+      "month_added": "December 2023",
+      "id": 2
     },
     {
       "user_id": 1,
@@ -30,6 +32,7 @@
       "author": "Randall Munroe",
       "genre": "Nonfiction",
       "keyword": "popular science",
+      "month_added": "April 2020",
       "id": 3
     },
     {
@@ -37,7 +40,8 @@
       "title": "At the Feet of the Sun",
       "author": "Victoria Goddard",
       "genre": "Fantasy",
-      "keyword": "hardcover",
+      "keyword": "softcover",
+      "month_added": "April 2020",
       "id": 4
     }
   ]

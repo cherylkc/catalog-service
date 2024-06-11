@@ -7,33 +7,41 @@ To get started, visit our [Overview](overview.md) page or dive right into our Qu
 
 ## Getting started
 
-Use our Quickstart guide (*coming soon*) to get the service up and running in no time!
+Use our [Getting Started](books/tutorials/getting-started.md) guide to get the API up and running in no time!
 
 ## Tutorials
 
 Learn how to easily manage a book collection within our API.
 
-### Users
-
-* Adding a user (admin only)
-* Deleting a user (admin only)
-* Listing all users (admin only)
-* Updating a user property (email, first name, last name)
-
 ### Books
 
 * Listing all the books in an account
-* [Fetching a book](books/references/fetch-a-book-by-property.md) by property (title, author, genre, keyword)
 * [Adding a book](books/tutorials/adding-a-book.md)
-* Updating a book (title, author, genre, keyword)
-* Deleting a book
+* Fetching a book by property (title, author, genre, keyword, month added)
+
+### Users
+
+* Adding a user (admin only)
+* Updating a user property (email, first name, last name)
 
 ## API references
 
-> The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends on the installation of the service. When running a local test, the `{base_url}` is generally `http://localhost:3000`.
+> The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends on the installation of the service. When running a local test, the `{base_url}` is `http://localhost:3000`.
 
-* [Users](users/references/user-resource.md)
+### References for books
+
+* [Listing all books in a collection](books/references/list-all-books.md)
+* [Updating a book's details](books/references/update-a-book.md)
+* [Fetching a book by property](books/references/fetch-a-book-by-property.md) (title, author, genre, keyword, month added)
+* [Deleting a book](books/references/delete-a-book.md)
 * [Books](books/references/book-resource.md)
+
+### References for users
+
+* [Adding a new user](users/references/add-a-new-user.md)
+* [Updating a user's profile](users/references/update-a-user-profile.md)
+* [Deleting a user](users/references/delete-a-user.md)
+* [Users](users/references/user-resource.md)
 
 ## Contact us
 

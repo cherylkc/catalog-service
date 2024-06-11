@@ -8,7 +8,7 @@ This tutorial shows you how to add a `book` to your Wordhoard collection. Once a
 
 For instance, if you’re at a bookstore browsing books by your favorite author and want to check if you own a particular book already, you can simply pull up Wordhoard, input the author’s name, and view all the books in your collection by the same author.
 
-This tutorial assumes you’re familiar with web programming concepts and web data formats. It also assumes that you have been added as a user within your Wordhoard account.
+This tutorial assumes you’re familiar with web programming concepts and web data formats.
 
 ## Before you start
 
@@ -41,7 +41,9 @@ Adding a `book` to a collection involves sending a `POST` request with the detai
         "title": "A Fine Balance",
         "author": "Rohinton Mistry",
         "genre": "historical fiction",
-        "keyword": "post colonialism"
+        "keyword": "post colonialism",
+        "month_added: "July 2020",
+        "id": 5
     }
 ```
 
@@ -55,13 +57,15 @@ You'll receive a response body that looks like this:
     "title": "A Fine Balance",
     "author": "Rohinton Mistry",
     "genre": "historical fiction",
-    "keyword": "post colonialism"
+    "keyword": "post colonialism",
+    "month_added: "July 2020",
+    "id": 5
 }
 ```
 
-You have now successfully added a `book` to your Wordhoard collection! You can now try retrieving the `book` by any property to view the latest addition to your collection.
+You have now successfully added a `book` to your Wordhoard collection! You can now try [retrieving this book](/docs/books/references/fetch-a-book-by-property.md) by any property to view the latest addition to your collection.
 
 ### Related resources
 
-* Fetching a book by property
+* [Fetching a book by property](/docs/books/references/fetch-a-book-by-property.md)
 * Deleting a book
