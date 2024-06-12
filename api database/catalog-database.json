@@ -4,7 +4,7 @@
       "last_name": "Smith",
       "first_name": "Ferdinand",
       "email": "f.smith@example.com",
-      "user_id": 1
+      "id": "1"
     }
   ],
   "books": [
@@ -15,7 +15,7 @@
       "genre": "Style Guide",
       "keyword": "technical writing",
       "month_year_added": "April 2023",
-      "id": 1
+      "id": "1"
     },
     {
       "user_id": 1,
@@ -24,7 +24,7 @@
       "genre": "Fantasy",
       "keyword": "Discworld",
       "month_year_added": "December 2023",
-      "id": 2
+      "id": "2"
     },
     {
       "user_id": 1,
@@ -33,7 +33,7 @@
       "genre": "Nonfiction",
       "keyword": "popular science",
       "month_year_added": "April 2020",
-      "id": 3
+      "id": "3"
     },
     {
       "user_id": 1,
@@ -42,7 +42,7 @@
       "genre": "Fantasy",
       "keyword": "softcover",
       "month_year_added": "April 2020",
-      "id": 4
+      "id": "4"
     }
   ]
 }

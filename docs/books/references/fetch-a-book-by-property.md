@@ -23,21 +23,19 @@ GET
 | `property` | String | The property you want to use to fetch the book(s) |
 | `value` | String | The value of the property. This is case-sensitive and must be used without quotation marks. |
 
-## Properties
+### Properties
 
 The `property` parameter can be any of the following:
 
 | Name | Type | Description |
 | -------------- | ------ | ------------ |
-| `title` | String | The title or short description of the book |
-| `author` | String | The author or writer of the book |
-| `genre` | String | The literary genre or category that the book belongs to |
-| `keyword` | String | An informative word used to indicate a key feature of the book |
-| `month_added` | String | The month and year the book was added to the collection or received as a gift |
+| `title` | string | The title or short description of the book |
+| `author` | string | The author or writer of the book |
+| `genre` | string | The literary genre or category that the book belongs to |
+| `keyword` | string | An informative word used to indicate a key feature of the book |
+| `month_year_added` | string | The month and year the book was added to the collection or received as a gift |
 
 ## Request headers
-
-This request does not need any authorization.
 
 | Header name | Description | Required/Optional | Values |
 | -------------- | ------ | ------------ |------------ |
@@ -45,11 +43,11 @@ This request does not need any authorization.
 
 ## Request body
 
-None
+Not required
 
 ## Request example
 
-{base_url}/books?genre=Fantasy
+http://localhost:3000/books?genre=Fantasy
 
 ## Response example
 

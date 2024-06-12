@@ -10,11 +10,11 @@ The following tutorial shows you how to do that - retrieve `books` that match a 
 
 | Name | Type | Description |
 | -------------- | ------ | ------------ |
-| `title` | String | The title or short description of the book |
-| `author` | String | The author or writer of the book |
-| `genre` | String | The literary genre or category that the book belongs to |
-| `keyword` | String | An informative word used to indicate a key feature of the book |
-| `month_year_added` | String | The month and year the book was added to the collection or received as a gift |
+| `title` | string | The title or short description of the book |
+| `author` | string | The author or writer of the book |
+| `genre` | string | The literary genre or category that the book belongs to |
+| `keyword` | string | An informative word used to indicate a key feature of the book |
+| `month_year_added` | string | The month and year the book was added to the collection or received as a gift |
 
 ## Before you start
 
@@ -79,7 +79,7 @@ A successful request will return a list of books that match the specified proper
 
 You can now try fetching books using another property if you'd like to play around a bit more with this. This functionality allows you to efficiently search for and retrieve books based on specific criteria, making it easier to manage and organize your collection.
 
-For more detailed information about Wordhoard and its other nifty features, check out our [documentation](index.md).
+For more detailed information about Wordhoard and its other nifty features, check out our [documentation](docs/index.md).
 
 ### Related resources
 

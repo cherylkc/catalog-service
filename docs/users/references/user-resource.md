@@ -22,7 +22,7 @@ Sample `user` resource
     "last_name": "Smith",
     "first_name": "Ferdinand",
     "email": "f.smith@example.com",
-    "user_id": 1
+    "id": 1
 }
 ```
 
@@ -31,7 +31,7 @@ Sample `user` resource
 | `last_name` | string | The user's last name |
 | `first_name` | string | The user's first name |
 | `email` | string | The user's email address |
-| `user_id` | number | The user's unique ID |
+| `id` | number | The user's unique ID |
 
 ## Operations
 
