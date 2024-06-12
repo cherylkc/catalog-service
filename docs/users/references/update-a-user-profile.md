@@ -38,7 +38,7 @@ This example updates the user's email address from `f.smith@example.com` to `fer
 
 ```js
 {
-    "email": "ferdinand.smith@example.com",
+    "email": "ferdinand.smith@example.com"
 }
 ```
 

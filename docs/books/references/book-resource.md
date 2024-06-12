@@ -38,7 +38,7 @@ Sample `book` resource
 | `author` | string | The author of the book|
 | `genre` | string | The type or category of the book, e.g. horror|
 | `keyword` | string | A word or phrase that is associated with a particular book or that describes the contents of a book|
-| `month_year_added` | String | The month and year the book was added to the collection or received as a gift |
+| `month_year_added` | string | The month and year the book was added to the collection or received as a gift |
 
 ## Operations
 
@@ -54,8 +54,8 @@ The `book` resource supports the following operations:
 
 ## UPDATE (PUT/PATCH)
 
-* Updating a book (title, author, genre, keyword)
+* [Updating a book](docs/books/references/update-a-book.md) (title, author, genre, keyword)
 
 ## DELETE (DELETE)
 
-* Deleting a book
+* [Deleting a book](docs/books/references/delete-a-book.md)
