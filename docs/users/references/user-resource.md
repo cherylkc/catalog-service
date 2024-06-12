@@ -37,18 +37,14 @@ Sample `user` resource
 
 The `user` resource supports the following operations:
 
-### READ (GET)
-
-* Get all users (admin only)
-
 ### CREATE (POST)
 
 * Create a user (admin only)
 
-### UPDATE (PUT/PATCH)
+### UPDATE (PATCH)
 
-* Update a user's profile (first name, last name, or email)
+* [Update a user's profile](docs/users/references/update-a-user-profile.md) (first name, last name, or email)
 
 ### DELETE
 
-* Delete a user (admin only)
+* [Delete a user](docs/users/references/delete-a-user.md) (admin only)

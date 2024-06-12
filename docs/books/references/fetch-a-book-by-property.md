@@ -47,7 +47,7 @@ Not required
 
 ## Request example
 
-http://localhost:3000/books?genre=Fantasy
+`http://localhost:3000/books?genre=Fantasy`
 
 ## Response example
 
