@@ -103,4 +103,4 @@ Congratulations! You have just made your first API call to Wordhoard!
 
 ## What’s next
 
-With your Wordhoard API set up and ready to go, you could now try [adding a new book](tutorials/adding-a-book.md) to the collection, or [retrieving a book](books/references/fetch-a-book-by-property.md) using any of its properties. For more detailed information about Wordhoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).
+With your Wordhoard API set up and ready to go, you could now try [adding a new book](adding-a-book.md) to the collection, or [retrieving a book using any of its properties](fetching-a-book-by-property.md). For more detailed information about Wordhoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).

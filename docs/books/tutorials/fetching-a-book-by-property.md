@@ -83,5 +83,5 @@ For more detailed information about Wordhoard and its other nifty features, chec
 
 ### Related resources
 
-* Updating a book
-* Deleting a book
+* [Adding a book](adding-a-book.md)
+* [Listing all books in a collection](listing-all-books.md)
