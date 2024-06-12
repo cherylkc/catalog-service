@@ -3,11 +3,11 @@
 
 Welcome to Wordhoard’s API documentation! This is your gateway to all the information you need to effectively use the API.
 
-To get started, visit our [Overview](overview.md) page or dive right into our [Quickstart guide](books/tutorials/getting-started.md) below.
+To get started, visit our [Overview](overview.md) page or dive right into our [Quickstart guide](books/tutorials/quickstart-guide.md) below.
 
 ## Getting started
 
-Use this [Quickstart guide](books/tutorials/getting-started.md) to get the API up and running in no time!
+Use this [Quickstart guide](books/tutorials/quickstart-guide.md) to get the API up and running in no time!
 
 ## Tutorials
 

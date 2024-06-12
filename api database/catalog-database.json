@@ -14,7 +14,7 @@
       "author": "Francis DeRespinis",
       "genre": "Style Guide",
       "keyword": "technical writing",
-      "month_added": "April 2023",
+      "month_year_added": "April 2023",
       "id": 1
     },
     {
@@ -23,7 +23,7 @@
       "author": "Terry Pratchett",
       "genre": "Fantasy",
       "keyword": "Discworld",
-      "month_added": "December 2023",
+      "month_year_added": "December 2023",
       "id": 2
     },
     {
@@ -32,7 +32,7 @@
       "author": "Randall Munroe",
       "genre": "Nonfiction",
       "keyword": "popular science",
-      "month_added": "April 2020",
+      "month_year_added": "April 2020",
       "id": 3
     },
     {
@@ -41,7 +41,7 @@
       "author": "Victoria Goddard",
       "genre": "Fantasy",
       "keyword": "softcover",
-      "month_added": "April 2020",
+      "month_year_added": "April 2020",
       "id": 4
     }
   ]

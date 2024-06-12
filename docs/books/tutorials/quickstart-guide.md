@@ -9,7 +9,7 @@ Wordhoard is a powerful API that enables you to create and maintain a record of 
 
 With Wordhoard, you can:
 
-* Look up books by title, author, genre, keyword, or month added, while making purchasing decisions or recommending books to a friend
+* Look up books by title, author, genre, keyword, or the month and year it was added to your collection, while making purchasing decisions or recommending books to a friend
 * Add, modify, or delete books in your book collection to keep it up to date
 * Add, update, or delete users in your account (admin only).
 
@@ -53,7 +53,7 @@ You'll see the following response in the response pane:
         "author": "Francis DeRespinis",
         "genre": "Style Guide",
         "keyword": "technical writing",
-        "month_added": "April 2023",
+        "month_year_added": "April 2023",
         "id": "1"
     },
     {
@@ -62,7 +62,7 @@ You'll see the following response in the response pane:
         "author": "Terry Pratchett",
         "genre": "Fantasy",
         "keyword": "Discworld",
-        "month_added": "December 2023",
+        "month_year_added": "December 2023",
         "id": "2"
     },
     {
@@ -71,7 +71,7 @@ You'll see the following response in the response pane:
         "author": "Randall Munroe",
         "genre": "Nonfiction",
         "keyword": "popular science",
-        "month_added": "April 2020",
+        "month_year_added": "April 2020",
         "id": "3"
     },
     {
@@ -80,7 +80,7 @@ You'll see the following response in the response pane:
         "author": "Victoria Goddard",
         "genre": "Fantasy",
         "keyword": "softcover",
-        "month_added": "April 2020",
+        "month_year_added": "April 2020",
         "id": "4"
     }
 ]
@@ -103,4 +103,4 @@ Congratulations! You have just made your first API call to Wordhoard!
 
 ## What’s next
 
-With your Wordhoard API set up and ready to go, you could now try [adding a new book](tutorials/adding-a-book.md) to the collection, or [retrieving a book](books/references/fetch-a-book-by-property.md) using any of its properties. For more detailed information about Wordhoard and its other nifty features, check out our [documentation](index.md).
+With your Wordhoard API set up and ready to go, you could now try [adding a new book](tutorials/adding-a-book.md) to the collection, or [retrieving a book](books/references/fetch-a-book-by-property.md) using any of its properties. For more detailed information about Wordhoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).

@@ -22,7 +22,7 @@ Sample `user` resource
     "last_name": "Smith",
     "first_name": "Ferdinand",
     "email": "f.smith@example.com",
-    "id": 1
+    "user_id": 1
 }
 ```
 
@@ -31,7 +31,7 @@ Sample `user` resource
 | `last_name` | string | The user's last name |
 | `first_name` | string | The user's first name |
 | `email` | string | The user's email address |
-| `id` | number | The user's unique ID |
+| `user_id` | number | The user's unique ID |
 
 ## Operations
 
@@ -39,17 +39,16 @@ The `user` resource supports the following operations:
 
 ### READ (GET)
 
-* Get all users
+* Get all users (admin only)
 
 ### CREATE (POST)
 
-* Create user
+* Create a user (admin only)
 
 ### UPDATE (PUT/PATCH)
 
-* Update user email
-* Update user name
+* Update a user's profile (first name, last name, or email)
 
 ### DELETE
 
-* Delete user
+* Delete a user (admin only)

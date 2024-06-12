@@ -4,7 +4,7 @@ layout: page
 
 # Fetching a book by property
 
-Use a `GET` request to retrieve books that match the specified property. A book can have the following properties: title, author, keyword, and genre.
+Use a `GET` request to retrieve books that match the specified property. A book can have the following properties: title, author, genre, keyword, or the month and year the book was added to the collection or received as a gift.
 
 ## URL
 
@@ -31,8 +31,9 @@ The `property` parameter can be any of the following:
 | -------------- | ------ | ------------ |
 | `title` | String | The title or short description of the book |
 | `author` | String | The author or writer of the book |
-| `keyword` | String | An informative word used to indicate a key feature of the book |
 | `genre` | String | The literary genre or category that the book belongs to |
+| `keyword` | String | An informative word used to indicate a key feature of the book |
+| `month_added` | String | The month and year the book was added to the collection or received as a gift |
 
 ## Request headers
 
