@@ -21,7 +21,7 @@ Learn how to easily manage a book collection within the API.
 
 ### Users
 
-* [Updating a user's profile](docs/users/tutorials/update-a-user-profile.md) (email, first name, last name)
+* [Updating a user's profile](users/tutorials/update-a-user-profile.md) (email, first name, last name)
 
 ## API references
 
