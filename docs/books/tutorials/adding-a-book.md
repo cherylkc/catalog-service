@@ -76,3 +76,4 @@ You have now successfully added a `book` to your Wordhoard collection! You can n
 
 * [Fetching a book by property](fetching-a-book-by-property.md)
 * [Deleting a book](../references/delete-a-book.md)
+
