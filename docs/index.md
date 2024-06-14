@@ -27,7 +27,7 @@ Learn how to easily manage a book collection within the API.
 
 > The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends on the installation of the service. When running a local test, the `{base_url}` is `http://localhost:3000`.
 
-### References for books
+### Books
 
 * [Listing all the books in a collection](books/references/list-all-books.md)
 * [Updating a book's details](books/references/update-a-book.md)
@@ -35,7 +35,7 @@ Learn how to easily manage a book collection within the API.
 * [Deleting a book](books/references/delete-a-book.md)
 * [Books](books/references/book-resource.md)
 
-### References for users
+### Users
 
 * [Adding a new user](users/references/add-a-new-user.md)
 * [Updating a user's profile](users/references/update-a-user-profile.md)
