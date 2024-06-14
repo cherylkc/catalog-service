@@ -1,7 +1,7 @@
 
 # Quickstart with Wordhoard
 
-Welcome to [Wordhoard](overview.md)! This guide will quickly walk you through the basics of getting started with Wordhoard, including set-up, key features, and making your first API call.
+Welcome to [Wordhoard](/docs/overview.md)! This guide will quickly walk you through the basics of getting started with Wordhoard, including set-up, key features, and making your first API call.
 
 ## What is Wordhoard
 
