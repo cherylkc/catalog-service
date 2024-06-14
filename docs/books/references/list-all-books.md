@@ -4,7 +4,7 @@ layout: page
 
 # Listing all the books in a collection
 
-Use a `GET` request to view all the books in your Wordhoard collection.
+Use a `GET` request to view all the books in your WordHoard collection.
 
 ## URL
 

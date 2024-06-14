@@ -9,7 +9,7 @@ Base endpoint:
 {server_url}/users
 ```
 
-Contains information about the users of the Wordhoard service.
+Contains information about the users of the WordHoard service.
 
 To have a book in the service, the user must first be added to the service by admin.
 

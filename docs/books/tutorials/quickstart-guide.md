@@ -1,13 +1,13 @@
 
-# Quickstart with Wordhoard
+# Quickstart with WordHoard
 
-Welcome to [Wordhoard](/docs/overview.md)! This guide will quickly walk you through the basics of getting started with Wordhoard, including set-up, key features, and making your first API call.
+Welcome to WordHoard! This guide will quickly walk you through the basics of getting started with WordHoard, including set-up, key features, and making your first API call.
 
-## What is Wordhoard
+## What is WordHoard
 
-Wordhoard is a powerful API that enables you to create and maintain a record of your books. You can search for and retrieve books by various properties at any time, ensuring that you never buy the same book twice (unless you really want to, of course).
+WordHoard is a powerful API that enables you to create and maintain a record of your books. You can search for and retrieve books by various properties at any time, ensuring that you never buy the same book twice (unless you really want to, of course).
 
-With Wordhoard, you can:
+With WordHoard, you can:
 
 * Look up books by title, author, genre, keyword, or the month and year it was added to your collection, while making purchasing decisions or recommending books to a friend.
 * Add, modify, or delete books in your book collection to keep it up to date.
@@ -15,11 +15,11 @@ With Wordhoard, you can:
 
 ## Setting up
 
-> You do not need an API key to try Wordhoard out.
+> You do not need an API key to try WordHoard out.
 
 ### Prerequisites
 
-* A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
+* A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
 * [Node.js](https://nodejs.org/en/download/package-manager)
 * [json-server](https://www.npmjs.com/package/json-server)
 * [Postman’s Desktop app](https://www.postman.com/downloads/)
@@ -37,7 +37,7 @@ The service should now be up and running.
 
 ## Making your first API call - view all books in a user’s collection
 
-Let’s assume you’re a Wordhoard user who wants to take a quick look at all the books in their collection.
+Let’s assume you’re a WordHoard user who wants to take a quick look at all the books in their collection.
 
 * Open the Postman desktop app and click **+** to create a new HTTP request.
 * Make sure the **GET** method is selected in the dropdown, then paste `http://localhost:3000/books` in the URL box.
@@ -86,9 +86,9 @@ You'll see the following response in the response pane:
 ]
 ```
 
-Congratulations! You have just made your first API call to Wordhoard!
+Congratulations! You have just made your first API call to WordHoard!
 
-### Endpoints supported by Wordhoard
+### Endpoints supported by WordHoard
 
 | HTTP Method | Endpoint                           |
 |-------------|------------------------------------|
@@ -103,4 +103,4 @@ Congratulations! You have just made your first API call to Wordhoard!
 
 ## What’s next
 
-With your Wordhoard API set up and ready to go, you could now try [adding a new book](adding-a-book.md) to the collection, or [retrieving a book using any of its properties](fetching-a-book-by-property.md). For more detailed information about Wordhoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).
+With your WordHoard API set up and ready to go, you could now try [adding a new book](adding-a-book.md) to the collection, or [retrieving a book using any of its properties](fetching-a-book-by-property.md). For more detailed information about WordHoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).
