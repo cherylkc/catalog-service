@@ -1,7 +1,7 @@
 
 # Wordhoard API Documentation
 
-Welcome to Wordhoard’s API documentation! This is your gateway to all the information you need to effectively use the API.
+This is your gateway to all the information you need to effectively use the API.
 
 To get started, visit our [Overview](overview.md) page or dive right into our [Quickstart guide](books/tutorials/quickstart-guide.md) below.
 
