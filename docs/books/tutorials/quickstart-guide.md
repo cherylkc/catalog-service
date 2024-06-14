@@ -9,15 +9,15 @@ Wordhoard is a powerful API that enables you to create and maintain a record of 
 
 With Wordhoard, you can:
 
-* Look up books by title, author, genre, keyword, or the month and year it was added to your collection, while making purchasing decisions or recommending books to a friend
-* Add, modify, or delete books in your book collection to keep it up to date
+* Look up books by title, author, genre, keyword, or the month and year it was added to your collection, while making purchasing decisions or recommending books to a friend.
+* Add, modify, or delete books in your book collection to keep it up to date.
 * Add, update, or delete users in your account (admin only).
 
 ## Setting up
 
 > You do not need an API key to try Wordhoard out.
 
-These are the prerequisites for exploring Wordhoard:
+### Prerequisites
 
 * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
 * [Node.js](https://nodejs.org/en/download/package-manager)
