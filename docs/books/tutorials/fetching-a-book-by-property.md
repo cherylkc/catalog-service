@@ -28,14 +28,14 @@ The following tutorial shows you how to do that - retrieve `books` that match a 
 * Open [GitHub Desktop](https://desktop.github.com/) and make sure the current repository is **catalog-service**.
   * Create a new test branch.
   * Go to **Repository > Open in Command Prompt**.
-  * In the Command Prompt window that pops up, run `cd api database`
+  * In the Command Prompt window, run `cd api database`
   * Now run the command `json-server -w catalog-database.json`
 
-The service should now be ready for your HTTP requests.
+Your service is now ready for HTTP requests.
 
 ## Fetching a book using a property
 
-Retrieving a book(s) in your collection involves sending a `GET` request to the service.
+To retrieve a book in your collection, send a `GET` request to the service.
 
 1. Open the Postman desktop app.
 2. Create a new HTTP request with these values:
@@ -52,7 +52,7 @@ Retrieving a book(s) in your collection involves sending a `GET` request to the 
 
 Click **Send** to make the request.
 
-A successful request will return a list of books that match the specified property. If no books match the specified property, you will receive an empty list. For this particular example request, you should see a response body that looks like this:
+A successful request will return a list of books that match the specified property. If no books match the specified property, you will receive an empty list. For this example, a succesful response looks like this:
 
 ```js
 [
@@ -79,7 +79,7 @@ A successful request will return a list of books that match the specified proper
 
 You can now try fetching books using another property if you'd like to play around a bit more with this. This functionality allows you to efficiently search for and retrieve books based on specific criteria, making it easier to manage and organize your collection.
 
-For more detailed information about Wordhoard and its other nifty features, check out our [documentation](docs/index.md).
+For more detailed information about Wordhoard and its other nifty features, check out our [documentation](/docs/index.md).
 
 ### Related resources
 
