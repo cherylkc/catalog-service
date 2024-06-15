@@ -1,4 +1,7 @@
-title: WordHoard
-theme: jekyll-theme-minimal
-logo: /images/Wordhoardlogo.jpg
+title: "WordHoard"
+logo: "/images/Wordhoardlogo.jpg"
 description: Your personal book management solution
+#baseurl: ""
+url: "https://cherylkc.github.io/catalog-service/"
+theme: jekyll-theme-minimal
+include: ['pages']
