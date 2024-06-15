@@ -1,5 +1,6 @@
 title: "WordHoard"
-logo: "/images/Wordhoardlogo.jpg"
+theme: jekyll-theme-minimal
+logo: /images/Wordhoardlogo.jpg
 description: Your personal book management solution
 #baseurl: ""
 url: "https://cherylkc.github.io/catalog-service/"

@@ -1,5 +1,5 @@
 
-# Wordhoard API Documentation
+# WordHoard API Documentation
 
 This is your gateway to all the information you need to effectively use the API.
 

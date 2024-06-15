@@ -9,7 +9,7 @@ Base endpoint
 {server_url}/books
 ```
 
-Contains information about books stored for Wordhoard users.
+Contains information about books stored for WordHoard users.
 
 To have a book stored in the service, the user must first be added to the service by admin.
 

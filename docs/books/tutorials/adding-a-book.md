@@ -4,16 +4,16 @@ layout: page
 
 # Tutorial: Adding a book to your collection
 
-This tutorial shows you how to add a `book` to your Wordhoard collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
+This tutorial shows you how to add a `book` to your WordHoard collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
 
-For instance, if you’re at a bookstore browsing books by your favorite author and want to check if you own a particular book already, you can simply pull up Wordhoard, input the author’s name, and view all the books in your collection by the same author.
+For instance, if you’re at a bookstore browsing books by your favorite author and want to check if you own a particular book already, you can simply pull up WordHoard, input the author’s name, and view all the books in your collection by the same author.
 
 This tutorial assumes you’re familiar with web programming concepts and web data formats.
 
 ## Before you start
 
 * Check to see if you have the following on your system:
-  * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
+  * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
   * [Node.js](https://nodejs.org/en/download/package-manager)
   * [json-server](https://www.npmjs.com/package/json-server)
   * [Postman’s Desktop app](https://www.postman.com/downloads/)
@@ -70,7 +70,7 @@ You'll receive a response body that looks like this:
 }
 ```
 
-You have now successfully added a `book` to your Wordhoard collection! You can now try [retrieving this book](/docs/books/references/fetch-a-book-by-property.md) by any property to view the latest addition to your collection.
+You have now successfully added a `book` to your WordHoard collection! You can now try [retrieving this book](/docs/books/references/fetch-a-book-by-property.md) by any property to view the latest addition to your collection.
 
 ### Related resources
 

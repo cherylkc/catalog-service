@@ -4,7 +4,7 @@ layout: page
 
 # Deleting a user
 
-Use a `DELETE` request to delete a user from a Wordhoard account. This feature is available only to those with Wordhoard admin rights.
+Use a `DELETE` request to delete a user from a WordHoard account. This feature is available only to those with WordHoard admin rights.
 
 ## URL
 
