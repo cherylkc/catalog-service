@@ -4,22 +4,22 @@ layout: page
 
 # Tutorial: Fetching a book using any of its properties
 
-Say you're a WordHoard user who's trying to recommend a book to a friend. You don't recall the title of the book or the exact spelling of the author's name, but you do remember that you received the book as a gift for your birthday during the pandemic. WordHoard can help you out by letting you retrieve the name of the book using the month and year (April 2020) as a query parameter.
+Say you're a Wordhoard user trying to recommend a book to a friend. You don't recall the title of the book or the exact spelling of the author's name, but you do remember that you received the book as a gift for your birthday during the pandemic. Wordhoard can help you out by letting you retrieve the name of the book using the month and year (April 2020) as a query parameter.
 
-The following tutorial shows you how to do that - retrieve `books` that match a specified property from your WordHoard collection. This involves making a `GET` request to the appropriate endpoint using any of the following query parameters:
+The following tutorial shows you how to do that - retrieve `books` that match a specified property from your Wordhoard collection. This involves making a `GET` request to the appropriate endpoint using any of the following query parameters:
 
 | Name | Type | Description |
-| -------------- | ------ | ------------ |
+| ---- | ---- | ----------- |
 | `title` | string | The title or short description of the book |
 | `author` | string | The author or writer of the book |
 | `genre` | string | The literary genre or category that the book belongs to |
 | `keyword` | string | An informative word used to indicate a key feature of the book |
-| `month_year_added` | string | The month and year the book was added to the collection or received as a gift |
+| `month_year_added`  | string | The month and year the book was added to the collection or received as a gift |
 
 ## Before you start
 
 * Make sure you have the following on your system:
-  * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
+  * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
   * [Node.js](https://nodejs.org/en/download/package-manager)
   * [json-server](https://www.npmjs.com/package/json-server)
   * [Postman’s Desktop app](https://www.postman.com/downloads/)
@@ -79,7 +79,7 @@ A successful request will return a list of books that match the specified proper
 
 You can now try fetching books using another property if you'd like to play around a bit more with this. This functionality allows you to efficiently search for and retrieve books based on specific criteria, making it easier to manage and organize your collection.
 
-For more detailed information about WordHoard and its other nifty features, check out our [documentation](/docs/index.md).
+For more detailed information about Wordhoard and its other nifty features, check out our [documentation](/docs/index.md).
 
 ### Related resources
 
