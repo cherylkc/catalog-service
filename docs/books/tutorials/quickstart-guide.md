@@ -1,5 +1,5 @@
 
-# Quickstart Guide
+# Quickstart guide
 
 This guide will quickly walk you through the basics of getting started with WordHoard, including set-up, key features, and making your first API call.
 
