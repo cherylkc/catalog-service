@@ -4,7 +4,7 @@ layout: page
 
 # Tutorial: Adding a book to your collection
 
-This tutorial shows you how to add a `book` to your WordHoard collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
+This tutorial shows you how to add a `book` to your [WordHoard](/docs/overview.md) collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
 
 For instance, if you’re at a bookstore browsing books by your favorite author and want to check if you own a particular book already, you can simply pull up WordHoard, input the author’s name, and view all the books in your collection by the same author.
 
@@ -16,7 +16,7 @@ This tutorial assumes you’re familiar with web programming concepts and web da
   * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
   * [Node.js](https://nodejs.org/en/download/package-manager)
   * [json-server](https://www.npmjs.com/package/json-server)
-  * [Postman’s Desktop app](https://www.postman.com/downloads/)
+  * [Postman’s desktop app](https://www.postman.com/downloads/)
   * Command Prompt (Windows) or Terminal (macOS)
 
 * Make sure you have the necessary information about the book you’d like to add i.e. title, author, keyword, and/or genre.
@@ -48,7 +48,7 @@ Adding a `book` to a collection involves sending a `POST` request with the detai
         "title": "A Fine Balance",
         "author": "Rohinton Mistry",
         "genre": "historical fiction",
-        "keyword": "post colonialism",
+        "keyword": "postcolonialism",
         "month_added: "July 2020",
         "id": 5
     }
@@ -64,7 +64,7 @@ You'll receive a response body that looks like this:
     "title": "A Fine Balance",
     "author": "Rohinton Mistry",
     "genre": "historical fiction",
-    "keyword": "post colonialism",
+    "keyword": "postcolonialism",
     "month_added: "July 2020",
     "id": 5
 }
