@@ -1,7 +1,7 @@
 
-# Quickstart with WordHoard
+# Quickstart Guide
 
-Welcome to WordHoard! This guide will quickly walk you through the basics of getting started with WordHoard, including set-up, key features, and making your first API call.
+This guide will quickly walk you through the basics of getting started with WordHoard, including set-up, key features, and making your first API call.
 
 ## What is WordHoard
 
@@ -35,7 +35,7 @@ When you have all the prerequisites sorted, start the server on your development
 
 The service should now be up and running.
 
-## Making your first API call - view all books in a user’s collection
+## Making your first API call - viewing all the books in a user’s collection
 
 Let’s assume you’re a WordHoard user who wants to take a quick look at all the books in their collection.
 
