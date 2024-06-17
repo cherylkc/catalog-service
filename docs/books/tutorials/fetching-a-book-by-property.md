@@ -4,7 +4,7 @@ layout: page
 
 # Tutorial: Fetching a book using any of its properties
 
-Say you're a WordHoard user who's trying to recommend a book to a friend. You don't recall the title of the book or the exact spelling of the author's name, but you do remember that you received the book as a gift for your birthday during the pandemic. WordHoard can help you out by letting you retrieve the name of the book using the month and year (April 2020) as a query parameter.
+Say you're a WordHoard user trying to recommend a book to a friend. You don't recall the title of the book or the exact spelling of the author's name, but you do remember that you received the book as a gift for your birthday during the pandemic. WordHoard can help you out by letting you retrieve the name of the book using the month and year (April 2020) as a query parameter.
 
 The following tutorial shows you how to do that - retrieve `books` that match a specified property from your WordHoard collection. This involves making a `GET` request to the appropriate endpoint using any of the following query parameters:
 
