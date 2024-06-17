@@ -22,7 +22,7 @@ With WordHoard, you can:
 * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
 * [Node.js](https://nodejs.org/en/download/package-manager)
 * [json-server](https://www.npmjs.com/package/json-server)
-* [Postman’s Desktop app](https://www.postman.com/downloads/)
+* [Postman’s desktop app](https://www.postman.com/downloads/)
 * Command Prompt (Windows) or Terminal (macOS)
 
 When you have all the prerequisites sorted, start the server on your development system:
