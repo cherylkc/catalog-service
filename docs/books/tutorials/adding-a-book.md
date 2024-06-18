@@ -70,9 +70,8 @@ You'll receive a response body that looks like this:
 }
 ```
 
-You have now successfully added a `book` to your WordHoard collection! You can now try [retrieving this book](/docs/books/references/fetch-a-book-by-property.md) by any property to view the latest addition to your collection.
+You have now successfully added a `book` to your WordHoard collection! You can now try [retrieving this book](fetching-a-book-by-property.md) by any property to view the latest addition to your collection.
 
 ### Related resources
 
-* [Fetching a book by property](fetching-a-book-by-property.md)
 * [Deleting a book](../references/delete-a-book.md)
