@@ -4,7 +4,7 @@ layout: page
 
 # Tutorial: Listing all the books in a collection
 
-This tutorial shows you how to retrieve all the `books` in your WordHoard collection. It assumes you’re familiar with web programming concepts and web data formats.
+This tutorial shows you how to retrieve all the `books` in your [WordHoard](/../../overview.md) collection. It assumes you’re familiar with web programming concepts and web data formats.
 
 ## Before you start
 
@@ -12,7 +12,7 @@ This tutorial shows you how to retrieve all the `books` in your WordHoard collec
   * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [WordHoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
   * [Node.js](https://nodejs.org/en/download/package-manager)
   * [json-server](https://www.npmjs.com/package/json-server)
-  * [Postman’s Desktop app](https://www.postman.com/downloads/)
+  * [Postman’s desktop app](https://www.postman.com/downloads/)
   * Command Prompt (Windows) or Terminal (macOS)
 
 * Open [GitHub Desktop](https://desktop.github.com/) and make sure the current repository is **catalog-service**.
@@ -82,10 +82,8 @@ You should receive a response body that looks like this:
 ]
 ```
 
-You have now successfully retrieved all the `books` in your WordHoard collection! Explore WordHoard further and try [fetching a book using any property](/docs/books/references/fetch-a-book-by-property.md).
+You have now successfully retrieved all the `books` in your WordHoard collection! Explore WordHoard further and try [fetching a book using any property](fetching-a-book-by-property.md).
 
 ### Related resources
 
-* [Fetching a book by property](/docs/books/references/fetch-a-book-by-property.md)
-* Updating a book
-* Deleting a book
+* [Fetching a book by property](fetching-a-book-by-property.md)
