@@ -4,7 +4,7 @@ layout: page
 
 # Tutorial: Adding a book to your collection
 
-This tutorial shows you how to add a `book` to your [WordHoard](/docs/overview.md) collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
+This tutorial shows you how to add a `book` to your [WordHoard](overview.md) collection. Once a `book` is added to your collection and tagged with properties such as `author`, `keyword`, or `genre`, you can retrieve that `book` from the collection using any of its associated properties.
 
 For instance, if you’re at a bookstore browsing books by your favorite author and want to check if you own a particular book already, you can simply pull up WordHoard, input the author’s name, and view all the books in your collection by the same author.
 
