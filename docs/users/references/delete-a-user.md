@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Deleting a user
 

@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Fetching a book by property
 

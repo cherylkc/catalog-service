@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Tutorial: Adding a book to your collection
 

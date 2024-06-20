@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Deleting a book from a collection
 

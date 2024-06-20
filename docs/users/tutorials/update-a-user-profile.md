@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Tutorial: Updating a user's profile
 

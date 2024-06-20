@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Updating a book's properties
 

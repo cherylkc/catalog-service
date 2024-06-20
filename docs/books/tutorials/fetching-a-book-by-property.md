@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Tutorial: Fetching a book using any of its properties
 

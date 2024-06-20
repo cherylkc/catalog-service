@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Listing all the books in a collection
 

@@ -1,6 +1,4 @@
----
-layout: page
----
+
 # `book` resource
 
 Base endpoint

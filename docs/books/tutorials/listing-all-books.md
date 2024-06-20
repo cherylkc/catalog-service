@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Tutorial: Listing all the books in a collection
 
