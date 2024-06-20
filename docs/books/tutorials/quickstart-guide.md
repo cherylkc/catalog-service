@@ -1,7 +1,7 @@
 
 # Quickstart guide
 
-This guide will quickly walk you through the basics of getting started with WordHoard, including set-up, key features, and making your first API call.
+This guide will quickly walk you through the basics of getting started with [WordHoard](../../overview.md), including set-up, key features, and making your first API call.
 
 ## What is WordHoard
 
@@ -103,4 +103,4 @@ Congratulations! You have just made your first API call to WordHoard!
 
 ## What’s next
 
-With your WordHoard API set up and ready to go, you could now try [adding a new book](adding-a-book.md) to the collection, or [retrieving a book using any of its properties](fetching-a-book-by-property.md). For more detailed information about WordHoard and its other nifty features, check out our [documentation](https://cherylkc.github.io/catalog-service/overview.html).
+With your WordHoard API set up and ready to go, you could now try [adding a new book](adding-a-book.md) to the collection, or [retrieving a book using any of its properties](fetching-a-book-by-property.md). For more detailed information about WordHoard and its other nifty features, check out our [documentation](../../index.md).

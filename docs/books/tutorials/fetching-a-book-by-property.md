@@ -19,7 +19,7 @@ The following tutorial shows you how to do that - retrieve `books` that match a 
   * A [GitHub](https://github.com/) account, [GitHub Desktop](https://desktop.github.com/), and a fork of the [Wordhoard repository](https://github.com/cherylkc/catalog-service.git) cloned to your desktop
   * [Node.js](https://nodejs.org/en/download/package-manager)
   * [json-server](https://www.npmjs.com/package/json-server)
-  * [Postman’s Desktop app](https://www.postman.com/downloads/)
+  * [Postman’s desktop app](https://www.postman.com/downloads/)
   * Command Prompt (Windows) or Terminal (macOS)
 
 * Open [GitHub Desktop](https://desktop.github.com/) and make sure the current repository is **catalog-service**.
@@ -76,7 +76,7 @@ A successful request will return a list of books that match the specified proper
 
 You can now try fetching books using another property if you'd like to play around a bit more with this. This functionality allows you to efficiently search for and retrieve books based on specific criteria, making it easier to manage and organize your collection.
 
-For more detailed information about Wordhoard and its other nifty features, check out our [documentation](/docs/index.md).
+For more detailed information about Wordhoard and its other nifty features, check out our [documentation](../../index.md).
 
 ### Related resources
 
