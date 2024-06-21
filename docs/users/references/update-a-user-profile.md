@@ -1,7 +1,7 @@
 
 # Updating a user's profile
 
-Use a `PATCH` request to update a user's last name, first name, or email.
+Use a `PATCH` request to update a [Wordhoard](../../overview.md) user's last name, first name, or email.
 
 ## URL
 

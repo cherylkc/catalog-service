@@ -7,7 +7,7 @@ Base endpoint:
 {server_url}/users
 ```
 
-Contains information about the users of the WordHoard service.
+Contains information about the users of the [WordHoard](../../overview.md) API.
 
 To have a book in the service, the user must first be added to the service by admin.
 
@@ -37,12 +37,12 @@ The `user` resource supports the following operations:
 
 ### CREATE (POST)
 
-* Create a user (admin only)
+* [Add a new user](add-a-new-user.md) (admin only)
 
 ### UPDATE (PATCH)
 
-* [Update a user's profile](docs/users/references/update-a-user-profile.md) (first name, last name, or email)
+* [Update a user's profile](update-a-user-profile.md) (first name, last name, or email)
 
 ### DELETE
 
-* [Delete a user](docs/users/references/delete-a-user.md) (admin only)
+* [Delete a user](delete-a-user.md) (admin only)

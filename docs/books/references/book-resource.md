@@ -7,7 +7,7 @@ Base endpoint
 {server_url}/books
 ```
 
-Contains information about books stored for WordHoard users.
+Contains information about books stored for [WordHoard](../../overview.md) users.
 
 To have a book stored in the service, the user must first be added to the service by admin.
 
@@ -44,7 +44,7 @@ The `book` resource supports the following operations:
 
 ## READ (GET)
 
-* [Fetching a book by property](docs/books/tutorials/fetching-a-book-by-property.md) (title, author, genre, keyword, month and year it was added)
+* [Fetching a book by property](fetch-a-book-by-property.md) (title, author, genre, keyword, month and year it was added)
 
 ## CREATE (POST)
 
@@ -52,8 +52,8 @@ The `book` resource supports the following operations:
 
 ## UPDATE (PUT/PATCH)
 
-* [Updating a book](docs/books/references/update-a-book.md) (title, author, genre, keyword)
+* [Updating a book](/docs/books/references/update-a-book.md) (title, author, genre, keyword)
 
 ## DELETE (DELETE)
 
-* [Deleting a book](docs/books/references/delete-a-book.md)
+* [Deleting a book](delete-a-book.md)

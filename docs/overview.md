@@ -1,7 +1,7 @@
 
 # WordHoard
 
-Ever wished you could pull up a list of all the books you own, while browsing at a bookstore or looking at a deal on an interesting book online? The WordHoard REST API lets your customers do that and more, effortlessly. Users can always have their library at their fingertips, and search for books by title, author, genre, keyword, or the month and year the book was added to a collection.
+Ever wished you could pull up a list of all the books you own, while browsing at a bookstore or looking at a deal on an interesting book online? WordHoard's API lets your customers do that and more, effortlessly. Users can always have their library at their fingertips, and search for books by title, author, genre, keyword, or the month and year the book was added to a collection.
 
 You do not need an API key to use WordHoard. The API uses JSON to encode objects and relies on standard HTTP requests to manage `users` and `books`.
 
