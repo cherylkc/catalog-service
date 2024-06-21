@@ -44,15 +44,16 @@ The `book` resource supports the following operations:
 
 ## READ (GET)
 
+* [Listing all the books in a collection](list-all-books.md)
 * [Fetching a book by property](fetch-a-book-by-property.md) (title, author, genre, keyword, month and year it was added)
 
 ## CREATE (POST)
 
-* [Adding a book](/docs/books/tutorials/adding-a-book.md)
+* [Adding a book](../tutorials/adding-a-book.md)
 
 ## UPDATE (PUT/PATCH)
 
-* [Updating a book](/docs/books/references/update-a-book.md) (title, author, genre, keyword)
+* [Updating a book](update-a-book.md) (title, author, genre, keyword)
 
 ## DELETE (DELETE)
 

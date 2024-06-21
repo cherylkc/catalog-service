@@ -1,7 +1,7 @@
 
 # WordHoard API Documentation
 
-This is your gateway to all the information you need to effectively use the API.
+This is your gateway to all the information you need to effectively use WordHoard, a book lookup API that lets users organize their personal library with ease.
 
 To get started, visit our [Overview](overview.md) page or dive right into our [Quickstart guide](books/tutorials/quickstart-guide.md) below.
 
