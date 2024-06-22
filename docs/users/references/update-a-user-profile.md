@@ -1,7 +1,7 @@
 
 # Updating a user's profile
 
-Use a `PATCH` request to update a [Wordhoard](../../overview.md) user's last name, first name, or email.
+Make a `PATCH` request to update a [Wordhoard](../../overview.md) user's last name, first name, or email.
 
 ## URL
 
@@ -57,3 +57,8 @@ This example updates the user's email address from `f.smith@example.com` to `fer
 | 200 | Success | Requested user property updated successfully |
 | 404 | Error | Specified user record not found |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+### Related resources
+
+* [Adding a new user](add-a-new-user.md)
+* [Deleting a user](delete-a-user.md)

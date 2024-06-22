@@ -84,3 +84,5 @@ You have now successfully retrieved all the `books` in your WordHoard collection
 ### Related resources
 
 * [Adding a book](adding-a-book.md)
+* [Fetching a book by property](fetching-a-book-by-property.md)
+* [Deleting a book](../references/delete-a-book.md)

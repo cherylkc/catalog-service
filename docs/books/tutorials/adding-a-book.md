@@ -46,7 +46,7 @@ Adding a `book` to a collection involves sending a `POST` request with the detai
         "author": "Rohinton Mistry",
         "genre": "historical fiction",
         "keyword": "postcolonialism",
-        "month_added: "July 2020",
+        "month_year_added": "July 2020",
         "id": 5
     }
 ```
@@ -62,7 +62,7 @@ You'll receive a response body that looks like this:
     "author": "Rohinton Mistry",
     "genre": "historical fiction",
     "keyword": "postcolonialism",
-    "month_added: "July 2020",
+    "month_year_added": "July 2020",
     "id": 5
 }
 ```
@@ -71,4 +71,5 @@ You have now successfully added a `book` to your WordHoard collection! You can n
 
 ### Related resources
 
+* [Fetching a book by property](fetching-a-book-by-property.md)
 * [Deleting a book](../references/delete-a-book.md)

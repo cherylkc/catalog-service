@@ -1,7 +1,7 @@
 
 # Deleting a book from a collection
 
-Use a `DELETE` request to remove a book from your collection.
+Make a `DELETE` request to remove a book from your collection.
 
 ## URL
 
@@ -44,3 +44,8 @@ Not required
 | 200 | Success | Book deleted successfully |
 | 404 | Error | Specified book not found |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+### Related resources
+
+* [Adding a book](adding-a-book.md)
+* [Fetching a book by property](fetch-a-book-by-property.md)

@@ -1,7 +1,7 @@
 
 # Listing all the books in a collection
 
-Use a `GET` request to view all the books in your WordHoard collection.
+Make a `GET` request to view all the books in your [WordHoard](../../overview.md) collection.
 
 ## URL
 
@@ -73,3 +73,8 @@ Not required
 | 200 | Success | Books retrieved successfully |
 | 404 | Error | Books not found |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+### Related resources
+
+* [Adding a book](adding-a-book.md)
+* [Fetching a book by property](fetch-a-book-by-property.md)

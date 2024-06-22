@@ -1,7 +1,7 @@
 
 # Fetching a book by property
 
-Use a `GET` request to retrieve books that match the specified property. A book can have the following properties: title, author, genre, keyword, or the month and year the book was added to the collection or received as a gift.
+Make a `GET` request to retrieve books that match the specified property. A book can have the following properties: title, author, genre, keyword, or the month and year the book was added to the collection or received as a gift.
 
 ## URL
 
@@ -74,3 +74,8 @@ Not required
 | 200 | Success | Requested book(s) returned successfully |
 | 404 | Error | Specified book not found |
 | ECONNREFUSED | N/A | Service is offline. Restart the service and try again. |
+
+### Related resources
+
+* [Adding a book](adding-a-book.md)
+* [Deleting a book](delete-a-book.md)

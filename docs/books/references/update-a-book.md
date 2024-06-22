@@ -1,7 +1,7 @@
 
 # Updating a book's properties
 
-Use a `PATCH` request to update a book's title, author, genre, or keyword.
+Make a `PATCH` request to update a book's title, author, genre, or keyword.
 
 ## URL
 
@@ -61,3 +61,8 @@ This example updates the book's title from *'What if? 2: Additional Serious Scie
 | 200 | Success | Requested book updated successfully |
 | 404 | Error | Specified book not found |
 | ECONNREFUSED | N/A | Service is offline. Start the service and try again. |
+
+### Related resources
+
+* [Adding a book](adding-a-book.md)
+* [Fetching a book by property](fetch-a-book-by-property.md)
