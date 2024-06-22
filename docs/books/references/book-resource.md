@@ -49,7 +49,7 @@ The `book` resource supports the following operations:
 
 ## CREATE (POST)
 
-* [Adding a book](../tutorials/adding-a-book.md)
+* [Adding a book](add-a-book.md)
 
 ## UPDATE (PUT/PATCH)
 
