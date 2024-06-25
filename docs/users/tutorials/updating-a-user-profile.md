@@ -29,7 +29,7 @@ Your service is now ready for HTTP requests.
 
 ## Updating a user's profile
 
-To update a property in a user profile, send a `PATCH` request to the service. This example updates the user’s last name from 'Smith' to 'Magellan'.
+To update a property in a user profile, send a `PATCH` request to the service. This example updates a user’s last name from 'Smith' to 'Magellan'.
 
 1. Open the Postman desktop app.
 2. Create a new HTTP request with these values:
