@@ -6,7 +6,7 @@ Make a `POST` request to add a new book to your [WordHoard](../../overview.md) c
 ## URL
 
 ```shell
-{base_url}/books
+http://localhost:3000/books
 ```
 
 ## Method
