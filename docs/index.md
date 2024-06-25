@@ -16,7 +16,7 @@ Learn how to easily manage a book collection within the API.
 ### Books
 
 * [Listing all the books in a collection](books/tutorials/listing-all-books.md)
-* [Adding a book](books/references/add-a-book.md)
+* [Adding a book](books/tutorials/adding-a-book.md)
 * [Fetching a book by property](books/tutorials/fetching-a-book-by-property.md) (title, author, genre, keyword, month and year the book was added)
 
 ### Users
