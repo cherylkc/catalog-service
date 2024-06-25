@@ -6,7 +6,7 @@ Make a `GET` request to retrieve books that match the specified property. A book
 ## URL
 
 ```shell
-{base_url}/books?{property}={value}
+http://localhost:3000/books?{property}={value}
 ```
 
 ## Method

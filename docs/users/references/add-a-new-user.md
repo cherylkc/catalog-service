@@ -6,7 +6,7 @@ Make a `POST` request to enroll a new [WordHoard](../../overview.md) `user`. Thi
 ## URL
 
 ```shell
-{base_url}/users
+http://localhost:3000/users
 ```
 
 ## Method
